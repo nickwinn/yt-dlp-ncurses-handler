@@ -1,4 +1,4 @@
-# yt-dlp-tui
+# yt-dlp-ncurses-handler
 
 An interactive ncurses terminal frontend for [yt-dlp](https://github.com/yt-dlp/yt-dlp).
 
