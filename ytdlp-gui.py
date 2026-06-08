@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-yt-dlp-tui  —  A curses-based interactive frontend for yt-dlp
+ytdlp-gui  —  A curses-based interactive frontend for yt-dlp
 """
 
 import curses
