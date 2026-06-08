@@ -36,9 +36,9 @@ Python 3.10+ (uses `curses`, stdlib only — no extra packages needed).
 ## Usage
 
 ```bash
-python3 ytdlp_tui.py
+python3 ytdlp-gui.py
 # or after chmod +x:
-./ytdlp_tui.py
+./ytdlp-gui.py
 ```
 
 Terminal must be at least **80×24**. Larger = more log lines visible.
